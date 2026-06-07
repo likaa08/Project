@@ -10,7 +10,7 @@ public partial class Cat : Pet
     {
         FurColor = furColor;
         LikesBoxes = likesBoxes;
-        Claustrophobia = true; // по умолчанию true (в задании — у одного класса)
+        Claustrophobia = true;
     }
 
     public override string AnimalKind => "Кошка";
