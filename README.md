@@ -9,7 +9,7 @@ dotnet build PetShelter.slnx
 dotnet run --project PetShelter
 ```
 
-Требуется **.NET 10** (Windows).
+Требуется **.NET 9** (Windows).
 
 При первом запуске создаются:
 - данные приютов: `%LocalAppData%\PetShelter\shelters.json`;
